@@ -1,0 +1,6 @@
+-- CREATE TABLE tb_detection_results (
+--     id INT AUTO_INCREMENT PRIMARY KEY,
+--     original_name VARCHAR(255) NOT NULL,
+--     result_image VARCHAR(255) NOT NULL,
+--     created_at TIMESTAMP DEFAULT CURRENT_TIMESTAMP
+-- );
